@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Móveis Customizados é um leyout ficticio de uma loja de móveis.
+O Móveis Customizados é um layout ficticio de uma loja de móveis.
 
 ## 🔖 Layout
 
